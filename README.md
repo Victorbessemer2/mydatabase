@@ -1,2 +1,2 @@
-# mydatabase
-Aprendendo BD e SQL
+# Mydatabase
+Aprendendo BD e SQL com professor Bruno
